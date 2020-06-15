@@ -1,0 +1,7 @@
+1 - Escolha uma das bocas
+2 - Pegue num isqueiro, acenda-o e aproxime dessa boca
+3 - Ative a boca, normalmente carregando no botao
+4 - Depois de ligado, regule a chama
+5 - Coloque o que pretende cozinhar na boca do fogao
+6 - Continue a vigiar cuidadosamente
+7 - Depois de preparado, desligue a boca rodando-a para o 0

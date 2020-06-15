@@ -1,0 +1,5 @@
+1 - Abra o microondas
+2 - Coloque o que pretende aquecer
+3 - Determine o modo (descongelar ou aquecer)
+4 - Determine o tempo e inicie
+5 - Aguarde o tempo e retire o produto

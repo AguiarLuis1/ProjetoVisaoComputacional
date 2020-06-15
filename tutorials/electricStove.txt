@@ -1,0 +1,6 @@
+1 - Escolha uma boca para utilizar
+2 - Regule esta para uma temperatura adequada
+3 - Espere ate esta aquecer, normalmente fica vermelha
+4 - Coloque o que pretende cozinhar na boca do fogao
+5 - Vigie cuidadosamente ate terminar
+6 - Depois de terminar, desligue a boca

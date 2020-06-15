@@ -1,0 +1,6 @@
+1 - Verifique que o produto esta ligado a tomada e abra a tampa
+2 - Coloque a agua ate a medida desejada
+3 - Feche a tampa e ligue o produto
+4 - Aguarde ate a agua ferver
+5 - Transfira a agua para outro recipiente com cuidado
+6 - Se necessario desligue o produto

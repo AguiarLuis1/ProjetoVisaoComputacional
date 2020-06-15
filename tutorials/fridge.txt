@@ -1,0 +1,5 @@
+1 - Abra o frigorifico
+2 - Localize o congelador e refrigerador
+3 - Opte por um deles de acordo com o que pretende guardar
+4 - Guarde o seu objeto
+5 - Feche o frigorifico

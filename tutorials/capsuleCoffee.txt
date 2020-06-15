@@ -1,0 +1,4 @@
+1 - Verifique que a maquina tem agua e esta ligada a corrente
+2 - Coloque a capsula e feche o compartimento
+3 - Coloque a chavena e ative a maquina
+4 - Aguarde ate ter a quantidade de cafe desejada e pare a maquina

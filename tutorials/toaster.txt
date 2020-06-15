@@ -1,0 +1,5 @@
+1 - Verifique a torradeira esta ligada a corrente
+2 - Ligue-a e coloque o que pretende tostar
+3 - Aguarde ate o seu alimento ter o aspeto desejado
+4 - Retire o produto com cuidado para nao se queimar
+5 - Quando acabar, desligue a torradeira

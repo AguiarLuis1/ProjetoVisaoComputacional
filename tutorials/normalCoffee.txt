@@ -1,0 +1,6 @@
+1 - Verifique que a maquina tem agua e esta ligada a corrente
+2 - Coloque o cafe em po na manete
+3 - Insira a manete na maquina
+4 - Coloque a chavena e ative a maquina
+5 - Aguarde ate ter a quantidade de cafe desejada e pare a maquina
+6 - Retire a manete e limpe-a
